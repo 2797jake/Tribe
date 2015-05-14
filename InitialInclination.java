@@ -3,7 +3,7 @@
  */
 public class InitialInclination
 {
-	public InitialInclination(double research, int food, int population, int wood, int stone, )
+	public InitialInclination(int food, int population, int wood, int stone, String struc)
 	{
 
 	}
